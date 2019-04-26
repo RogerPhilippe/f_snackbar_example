@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![alt text](https://github.com/RogerPhilippe/f_snackbar_example/blob/master/lib/images/Screenshot_1556286772.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
